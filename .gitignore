@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore sensitive files
 api/config.php
 
@@ -21,3 +22,8 @@ downloads/*.zip
 .DS_Store
 Thumbs.db
 desktop.ini
+=======
+# Godot 4+ specific ignores
+.godot/
+/android/
+>>>>>>> 1f744e97dc782bfe628342b64ee6e7b47d89ebc8
